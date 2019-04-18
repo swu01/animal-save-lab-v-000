@@ -12,6 +12,6 @@ html {
 
 @media only screen and (min-width: 406px max-width: 1170px) {
   #monkey {
-    background-color: lightblue;
+    top: -20px;
   }
 }
